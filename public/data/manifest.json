@@ -1,6 +1,26 @@
 {
   "simulations": [
     {
+      "slug": "2025-08-17_02-48-34",
+      "date": "2025-08-17",
+      "winner": "TorqSol",
+      "thumb": "/media/2025-08-17_02-48-34.jpg",
+      "video": "/media/2025-08-17_02-48-34.mp4",
+      "stats": "/data/daily/2025-08-17_02-48-34.json",
+      "ranking": "/data/daily/ranking/2025-08-17_02-48-34_ranking.json",
+      "topKills": 56
+    },
+    {
+      "slug": "2025-08-17_02-46-21",
+      "date": "2025-08-17",
+      "winner": "PRAYER_ON_SOL",
+      "thumb": "/media/2025-08-17_02-46-21.jpg",
+      "video": "/media/2025-08-17_02-46-21.mp4",
+      "stats": "/data/daily/2025-08-17_02-46-21.json",
+      "ranking": "/data/daily/ranking/2025-08-17_02-46-21_ranking.json",
+      "topKills": 46
+    },
+    {
       "slug": "2025-08-17_01-48-15",
       "date": "2025-08-17",
       "winner": "theinterndev",
