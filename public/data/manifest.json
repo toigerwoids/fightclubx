@@ -1,0 +1,36 @@
+{
+  "simulations": [
+    {
+      "slug": "2025-08-17_01-48-15",
+      "date": "2025-08-17",
+      "winner": "theinterndev",
+      "thumb": "/media/2025-08-17_01-48-15.jpg",
+      "video": "/media/2025-08-17_01-48-15.mp4",
+      "stats": "/data/daily/2025-08-17_01-48-15.json",
+      "ranking": "/data/daily/ranking/2025-08-17_01-48-15_ranking.json",
+      "topKills": 2
+    },
+    {
+      "slug": "2025-08-17_01-12-05",
+      "date": "2025-08-17",
+      "winner": "theinterndev",
+      "thumb": "/media/2025-08-17_01-12-05.jpg",
+      "video": "/media/2025-08-17_01-12-05.mp4",
+      "stats": "/data/daily/2025-08-17_01-12-05.json",
+      "ranking": "/data/daily/ranking/2025-08-17_01-12-05_ranking.json",
+      "topKills": 2
+    },
+    {
+      "slug": "2025-08-17_01-07-00",
+      "date": "2025-08-17",
+      "winner": "theinterndev",
+      "thumb": "/media/2025-08-17_01-07-00.jpg",
+      "video": "/media/2025-08-17_01-07-00.mp4",
+      "stats": "/data/daily/2025-08-17_01-07-00.json",
+      "ranking": "/data/daily/ranking/2025-08-17_01-07-00_ranking.json",
+      "topKills": 0
+    }
+  ],
+  "nextBattle": null,
+  "contractAddress": null
+}
