@@ -1,0 +1,26 @@
+{
+  "winner": "theinterndev",
+  "interactions": {
+    "theinterndev": {
+      "kills": 0,
+      "killsTotal": 0,
+      "damageDealt": 0.0,
+      "damageReceived": 0.0,
+      "deaths": 0
+    },
+    "aboycalledjesse": {
+      "kills": 0,
+      "killsTotal": 0,
+      "damageDealt": 0.0,
+      "damageReceived": 0.0,
+      "deaths": 0
+    },
+    "Velintime": {
+      "kills": 0,
+      "killsTotal": 0,
+      "damageDealt": 0.0,
+      "damageReceived": 0.0,
+      "deaths": 0
+    }
+  }
+}

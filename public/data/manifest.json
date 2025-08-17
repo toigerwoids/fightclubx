@@ -1,0 +1,116 @@
+{
+  "simulations": [
+    {
+      "slug": "2025-08-17_20-18-27",
+      "date": "2025-08-17",
+      "winner": "karel_rahadian",
+      "thumb": "/media/2025-08-17_20-18-27.jpg",
+      "video": "/media/2025-08-17_20-18-27.mp4",
+      "stats": "/data/daily/2025-08-17_20-18-27.json",
+      "ranking": "/data/daily/ranking/2025-08-17_20-18-27_ranking.json",
+      "topKills": 6
+    },
+    {
+      "slug": "2025-08-17_20-13-52",
+      "date": "2025-08-17",
+      "winner": "joo55352624",
+      "thumb": "/media/2025-08-17_20-13-52.jpg",
+      "video": "/media/2025-08-17_20-13-52.mp4",
+      "stats": "/data/daily/2025-08-17_20-13-52.json",
+      "ranking": "/data/daily/ranking/2025-08-17_20-13-52_ranking.json",
+      "topKills": 6
+    },
+    {
+      "slug": "2025-08-17_20-07-27",
+      "date": "2025-08-17",
+      "winner": "Hakan0087",
+      "thumb": "/media/2025-08-17_20-07-27.jpg",
+      "video": "/media/2025-08-17_20-07-27.mp4",
+      "stats": "/data/daily/2025-08-17_20-07-27.json",
+      "ranking": "/data/daily/ranking/2025-08-17_20-07-27_ranking.json",
+      "topKills": 268
+    },
+    {
+      "slug": "2025-08-17_18-13-37",
+      "date": "2025-08-17",
+      "winner": "crypticfarts",
+      "thumb": "/media/2025-08-17_18-13-37.jpg",
+      "video": "/media/2025-08-17_18-13-37.mp4",
+      "stats": "/data/daily/2025-08-17_18-13-37.json",
+      "ranking": "/data/daily/ranking/2025-08-17_18-13-37_ranking.json",
+      "topKills": 4
+    },
+    {
+      "slug": "2025-08-17_18-12-23",
+      "date": "2025-08-17",
+      "winner": "jamie68316",
+      "thumb": "/media/2025-08-17_18-12-23.jpg",
+      "video": "/media/2025-08-17_18-12-23.mp4",
+      "stats": "/data/daily/2025-08-17_18-12-23.json",
+      "ranking": "/data/daily/ranking/2025-08-17_18-12-23_ranking.json",
+      "topKills": 2
+    },
+    {
+      "slug": "2025-08-17_18-09-28",
+      "date": "2025-08-17",
+      "winner": "boberkurwa231",
+      "thumb": "/media/2025-08-17_18-09-28.jpg",
+      "video": "/media/2025-08-17_18-09-28.mp4",
+      "stats": "/data/daily/2025-08-17_18-09-28.json",
+      "ranking": "/data/daily/ranking/2025-08-17_18-09-28_ranking.json",
+      "topKills": 6
+    },
+    {
+      "slug": "2025-08-17_02-48-34",
+      "date": "2025-08-17",
+      "winner": "TorqSol",
+      "thumb": "/media/2025-08-17_02-48-34.jpg",
+      "video": "/media/2025-08-17_02-48-34.mp4",
+      "stats": "/data/daily/2025-08-17_02-48-34.json",
+      "ranking": "/data/daily/ranking/2025-08-17_02-48-34_ranking.json",
+      "topKills": 56
+    },
+    {
+      "slug": "2025-08-17_02-46-21",
+      "date": "2025-08-17",
+      "winner": "PRAYER_ON_SOL",
+      "thumb": "/media/2025-08-17_02-46-21.jpg",
+      "video": "/media/2025-08-17_02-46-21.mp4",
+      "stats": "/data/daily/2025-08-17_02-46-21.json",
+      "ranking": "/data/daily/ranking/2025-08-17_02-46-21_ranking.json",
+      "topKills": 46
+    },
+    {
+      "slug": "2025-08-17_01-48-15",
+      "date": "2025-08-17",
+      "winner": "theinterndev",
+      "thumb": "/media/2025-08-17_01-48-15.jpg",
+      "video": "/media/2025-08-17_01-48-15.mp4",
+      "stats": "/data/daily/2025-08-17_01-48-15.json",
+      "ranking": "/data/daily/ranking/2025-08-17_01-48-15_ranking.json",
+      "topKills": 2
+    },
+    {
+      "slug": "2025-08-17_01-12-05",
+      "date": "2025-08-17",
+      "winner": "theinterndev",
+      "thumb": "/media/2025-08-17_01-12-05.jpg",
+      "video": "/media/2025-08-17_01-12-05.mp4",
+      "stats": "/data/daily/2025-08-17_01-12-05.json",
+      "ranking": "/data/daily/ranking/2025-08-17_01-12-05_ranking.json",
+      "topKills": 2
+    },
+    {
+      "slug": "2025-08-17_01-07-00",
+      "date": "2025-08-17",
+      "winner": "theinterndev",
+      "thumb": "/media/2025-08-17_01-07-00.jpg",
+      "video": "/media/2025-08-17_01-07-00.mp4",
+      "stats": "/data/daily/2025-08-17_01-07-00.json",
+      "ranking": "/data/daily/ranking/2025-08-17_01-07-00_ranking.json",
+      "topKills": 0
+    }
+  ],
+  "nextBattle": null,
+  "contractAddress": null
+}
